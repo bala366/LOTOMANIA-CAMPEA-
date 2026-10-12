@@ -1,0 +1,1 @@
+Copie o arquivo .github/workflows/android-apk.yml do projeto para o GitHub.

@@ -1,0 +1,7 @@
+plugins { id 'com.android.application' }
+android {
+    namespace 'com.lotomania.espelho'
+    compileSdk 35
+    defaultConfig { applicationId 'com.lotomania.espelho'; minSdk 29; targetSdk 35; versionCode 11; versionName '11.0' }
+    compileOptions { sourceCompatibility JavaVersion.VERSION_17; targetCompatibility JavaVersion.VERSION_17 }
+}
